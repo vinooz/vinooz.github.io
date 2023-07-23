@@ -1,1 +1,1 @@
-## https://vinooz.github.io
+vinooz.github.io
